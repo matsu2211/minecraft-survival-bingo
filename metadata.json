@@ -1,0 +1,6 @@
+
+{
+  "name": "Minecraft Survival Bingo",
+  "description": "A 5x5 Bingo app for Minecraft survival players featuring 60 challenging tasks, local persistence, and visual completion tracking.",
+  "requestFramePermissions": []
+}
